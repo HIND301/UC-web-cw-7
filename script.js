@@ -6,6 +6,13 @@ let random_grade_div = document.getElementById("random-grade");
 /* لا تقم بتعديل الأسطر المكتوبة بالأعلى */
 
 
+
+
+
+
+
+
+
 /*  الجزء الأول والثاني من التمرين */
 
 
@@ -15,6 +22,8 @@ let random_grade_div = document.getElementById("random-grade");
 
 
 
+
+ 
 
 /* الجزء الثالث من التمرين */
 
